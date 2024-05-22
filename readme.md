@@ -45,3 +45,9 @@ Exemplo:
 
 -  Entrada: 123
 -  Sáida: 321
+
+## Extras
+
+### Questão 1
+
+Escreva uma função recursiva que calcule o fatorial de um número inserido pelo usuário.
